@@ -9,4 +9,9 @@ A modern programming designed for precision, a subset of Fugue.
 * supports imperative and declarative syntax
 * interpreted
 * transpiles to JavaScript
-* domain specific for scientific, AI, and game development
+* domain specific for scientific, AI, and game development (these come together in the domain of procedural generation)
+* standard library
+* toolchain (transpiler, package manager, VS Code extension for syntax highlighting and intellisense, Visual Studio extension for syntax highlighting and intellisense)
+* macros
+* generics
+* result types and exceptions
