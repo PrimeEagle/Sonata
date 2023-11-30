@@ -1,4 +1,4 @@
-# Cadence
+# Sonata
 A modern programming designed for precision, a subset of Fugue.
 
 * units and dimensions are first-class
