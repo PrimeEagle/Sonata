@@ -8,6 +8,8 @@ A modern programming designed for precision, a subset of Fugue.
     * dimension
     * unit (tied to one or more dimensions)
     * boolean
+    * byte
+    * rune
     * string
     * number (int, big int, float, double, complex)
     * measurement (number + unit)
