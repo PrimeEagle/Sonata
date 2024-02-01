@@ -15,6 +15,7 @@ A modern programming designed for precision, a subset of Fugue.
     * doc comments (dev) use ===
     * doc comments (public) use ==
     * comments can be nested
+    * logical operators are "and", "or", "xor", "not"
 * strongly typed
 * object-oriented
 * supports functional programming
