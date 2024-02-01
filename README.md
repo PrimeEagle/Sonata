@@ -11,7 +11,10 @@ A modern programming designed for precision, a subset of Fugue.
     * number
     * measurement
     * null
-    * complex numbers
+    * complex number
+    * function
+    * type
+    * object
 * operators
     * +, -, \, *
     * - for negation
