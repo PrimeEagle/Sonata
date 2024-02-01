@@ -20,6 +20,7 @@ A modern programming designed for precision, a subset of Fugue.
     * pointer
     * record
     * vector
+    * never
 * operators
     * +, -, \, *
     * - for negation
