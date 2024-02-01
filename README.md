@@ -1,8 +1,29 @@
 # Sonata
 A modern programming designed for precision, a subset of Fugue.
 
-* units and dimensions are first-class
-* complex numbers
+* measurements (consisting of a magnitude and units) are first-class
+    * base dimensions are keywords
+    * units can be defined based on dimensions
+* data types
+    * unit
+    * boolean
+    * string
+    * number
+    * measurement
+    * null
+    * complex numbers
+* operators
+    * +, -, \, *
+    * - for negation
+      - <, <=, >, >=
+      - == for equality
+      - "and" and "or" for logical "and" and "or", or for control
+      - "not" or "!" for logical not
+      - "!=" for logical xor (not equal)
+      - & for bitwise and
+      - | for bitwise or
+      - ^ for bitwise xor
+      - ~ for bitwise not
 * syntax
     * expressions use infix notation
     * statements are newline terminated, no multiple statements per line
@@ -10,12 +31,17 @@ A modern programming designed for precision, a subset of Fugue.
     * libraries are imported using "use package", "use package.class", "use package.class.method", or "use package.function"
     * blocks use braces, { and }
     * indentation is free-form
+* comments
     * inline comments use --
     * block comments use /-- and --/
     * doc comments (dev) use ===
     * doc comments (public) use ==
     * comments can be nested
-    * logical operators are "and", "or", "xor", "not"
+    * precedence and grouping uses ( and )
+* variables
+    * immutable by default
+    * declared as "name: type = value"
+    * default values are null if not declared
 * strongly typed
 * object-oriented
 * supports functional programming
