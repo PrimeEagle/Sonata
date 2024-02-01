@@ -3,6 +3,18 @@ A modern programming designed for precision, a subset of Fugue.
 
 * units and dimensions are first-class
 * complex numbers
+* syntax
+    * expressions use infix notation
+    * statements are newline terminated, no multiple statements per line
+    * line continuation uses single backslash character
+    * libraries are imported using "use package", "use package.class", "use package.class.method", or "use package.function"
+    * blocks use braces, { and }
+    * indentation is free-form
+    * inline comments use --
+    * block comments use /-- and --/
+    * doc comments (dev) use ===
+    * doc comments (public) use ==
+    * comments can be nested
 * strongly typed
 * object-oriented
 * supports functional programming
@@ -15,7 +27,7 @@ A modern programming designed for precision, a subset of Fugue.
 * macros
 * generics
 * result types and exceptions
-* algeabric types
+* algebraic types
 
 
 ## References and Inspirations
