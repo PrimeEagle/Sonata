@@ -5,16 +5,19 @@ A modern programming designed for precision, a subset of Fugue.
     * base dimensions are keywords
     * units can be defined based on dimensions
 * data types
-    * unit
+    * dimension
+    * unit (tied to one or more dimensions)
     * boolean
     * string
-    * number
-    * measurement
+    * number (int, big int, float, double, complex)
+    * measurement (number + unit)
     * null
-    * complex number
     * function
     * type
     * object
+    * pointer
+    * record
+    * vector
 * operators
     * +, -, \, *
     * - for negation
