@@ -11,7 +11,8 @@ A modern programming designed for precision, a subset of Fugue.
     * byte
     * rune
     * string
-    * number (int, big int, float, double, complex)
+    * number (int, big int, float, double, complex, imaginary)
+    * support for infinity
     * measurement (number + unit)
     * null
     * function
