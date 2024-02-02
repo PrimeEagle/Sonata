@@ -51,7 +51,11 @@ A modern programming designed for precision, a subset of Fugue.
     * immutable by default
     * declared as "name: type = value"
     * default values are null if not declared
-* strongly typed
+* type system
+    * strongly types
+    * refinement types
+    * dependent types
+    * inference and coercion
 * object-oriented
 * supports functional programming
 * supports imperative and declarative syntax
