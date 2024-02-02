@@ -34,6 +34,7 @@ A modern programming designed for precision, a subset of Fugue.
       - | for bitwise or
       - ^ for bitwise xor
       - ~ for bitwise not
+      - support for mathematical multiplication notations, such as x(y)
 * syntax
     * expressions use infix notation
     * statements are newline terminated, no multiple statements per line
