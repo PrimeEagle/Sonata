@@ -1,7 +1,7 @@
 # Sonata
 A modern scripting language with an advanced type system, supporting both object-oriented and functional programming paradigms. Sonata is a compatible subset of the [Concerto](https://github.com/PrimeEagle/Concerto) programming language.
 
-[documentation](https://primeeagle.github.io/Concerto-Docs/)\
+[documentation](https://primeeagle.github.io/Sonata-Docs/)\
 [s-maestro](https://github.com/PrimeEagle/s-maestro) - [cmt] command line terminal\
 [s-adlib](https://github.com/PrimeEagle/s-adlib) - [cai] interpreter\
 [s-harmony](https://github.com/PrimeEagle/s-harmony) - [chf] formatter\
